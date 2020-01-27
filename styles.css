@@ -42,6 +42,10 @@ button{
   /* padding-left: 1.5em; */
 }
 
+.uninvite-button{
+  width: 8%;
+}
+
 .add-spacing{
   margin-left: 1.5em;
 }
